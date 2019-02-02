@@ -12,7 +12,4 @@ Matching all 16 cards will win the game.
 Open index.html in your favourite browser. Clicking on the first card will start the game.
 
 ## Contributers
-The Memory Game was developed by Olav Schuermann for Udacity Front-End Web Developer Nanodegree Programm.
-
-## License
-CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+The Memory Game was developed by Olav Schuermann for Udacity Front-End Web Developer Nanodegree Program.
